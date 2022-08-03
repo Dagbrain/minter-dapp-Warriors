@@ -1,6 +1,6 @@
 const abi = [
   {
-    "inputs": [
+  "inputs": [
       {
         "components": [
           {
